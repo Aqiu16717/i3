@@ -192,3 +192,8 @@ bar {
 
 # Input Method
 exec --no-startup-id fcitx5 -d
+
+# Wall Paper
+# exec --no-startup-id feh --bg-scale "/home/aq1u/Pictures/daft-punk-by-ricardo-rodriguez-mankovsky-gallery-1-29517109592225.webp"
+
+exec --no-startup-id feh --bg-scale "/home/aq1u/Pictures/daftpunk-02.jpeg"
